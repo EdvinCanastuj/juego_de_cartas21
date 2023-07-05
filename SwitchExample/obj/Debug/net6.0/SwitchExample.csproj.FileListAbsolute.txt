@@ -1,0 +1,15 @@
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.exe
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.deps.json
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.runtimeconfig.json
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.dll
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\bin\Debug\net6.0\SwitchExample.pdb
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.csproj.AssemblyReference.cache
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.AssemblyInfoInputs.cache
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.AssemblyInfo.cs
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.dll
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\refint\SwitchExample.dll
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.pdb
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\SwitchExample.genruntimeconfig.cache
+C:\Users\edvin\Documents\Edvin\C# Proyect\SwitchExample\SwitchExample\obj\Debug\net6.0\ref\SwitchExample.dll
